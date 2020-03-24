@@ -14,7 +14,7 @@ rename file in Marlin folder to be just "_Bootscreen.h"
 
 ## Credits
 
-Created by the BitMpa converter at https://marlinfw.org/tools/u8glib/converter.html
+Created by the BitMap converter at https://marlinfw.org/tools/u8glib/converter.html
 Thanks to whoever wrote this...
 
 ## License
