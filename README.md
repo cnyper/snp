@@ -1,4 +1,4 @@
-# Marlin 2.0.3 _Bootscreen.h_
+# Marlin 2.0.x _Bootscreen.h_
 
 
 ### Supported Platforms
@@ -6,7 +6,9 @@
   Platform|MCU|Example Boards
   --------|---|-------
 Any Graphical LCD screen 128x64 pixels
-I've got a stock Ender 5, which in Marlin 2.0.3 uses a display described as CR10_StockDisplay
+I've got a stock Ender 5, which in Marlin 2.0.x uses a display described as CR10_StockDisplay
+
+rename file in Marlin folder to be just "_Bootscreen.h"
 
 
 
